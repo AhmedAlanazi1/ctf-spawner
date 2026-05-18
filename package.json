@@ -1,0 +1,6 @@
+{
+  "name": "ctf-spawner",
+  "version": "1.0.0",
+  "scripts": { "start": "node spawner.js" },
+  "dependencies": { "express": "^4.19.0" }
+}
