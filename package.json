@@ -2,5 +2,8 @@
   "name": "ctf-spawner",
   "version": "1.0.0",
   "scripts": { "start": "node spawner.js" },
-  "dependencies": { "express": "^4.19.0" }
+  "dependencies": {
+    "express": "^4.19.0",
+    "http-proxy": "^1.18.1"
+  }
 }
